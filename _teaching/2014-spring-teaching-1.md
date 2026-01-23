@@ -1,14 +1,20 @@
 ---
-layout: single
-#title: "Teaching"
-permalink: /teaching/
-author_profile: true
-redirect_from:
-  - /resume
+title: "Teaching experience 1"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "University 1, Department"
+date: 2014-01-01
+location: "City, Country"
 ---
 
-{% include base_path %}
+This is a description of a teaching experience. You can use markdown like any other post.
 
-# Teaching Experience
-* CS5323 Principles of Cybersecurity, Fall 2025
-* CS3113 Principles of Cybersecurity (Online), Spring 2026
+Heading 1
+======
+
+Heading 2
+======
+
+Heading 3
+======
