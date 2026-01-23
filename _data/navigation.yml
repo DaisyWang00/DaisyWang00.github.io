@@ -12,7 +12,7 @@ main:
     url: /
 
   - title: "Publications"
-    url: /publications/
+    url: /publications/ 
     
   #- title: "Research"
   #  url: /talks/   
@@ -20,8 +20,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "CypherLab"
-    url: /portfolio/
+  - title: "Awards"
+    url: /year-archive/  
+    
+  #- title: "CypherLab"
+  #  url: /portfolio/
     
   - title: "CV"
     url: /cv/
