@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Teaching Experienc
-* EECE 480B/580D Renewable Energy System and Microgrids, Spring 2025
-* EECE 418/502 Power System Analysis I
+# Teaching Experience
+* CS5323 Principles of Cybersecurity, Fall 2025
+* CS3113 Principles of Cybersecurity (Online), Spring 2026
