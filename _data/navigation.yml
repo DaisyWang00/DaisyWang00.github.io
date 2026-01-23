@@ -18,16 +18,16 @@ main:
   #  url: /talks/   
     
   - title: "Teaching"
-    url: /teaching/    
+    url: /teaching/  
+
+  - title: "CV"
+    url: /cv/
     
   - title: "CypherLab"
     url: /year-archive/  
     
   #- title: "CypherLab"
   #  url: /portfolio/
-    
-  - title: "CV"
-    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
