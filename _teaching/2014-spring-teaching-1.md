@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Teaching Experienc
+# Teaching Experience
 * CS5323 Principles of Cybersecurity, Fall 2025
 * CS3113 Principles of Cybersecurity (Online), Spring 2026
