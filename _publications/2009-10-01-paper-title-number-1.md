@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 ---
 
-<span style="font-size: 0.97em;"> [Nutrients] Gabrielle Gonzalez, Bingjing Mao, **Ruxin Wang**, Wen Liu, Chen Wang and Tung Sung Tseng, "Application of Augmented Reality Technology as a Dietary Monitoring and Control Measure Among Adults: A Systematic Review", in Nutrients, 2025.</span>
+<span style="font-size: 0.97em;"> [Nutrients'25] Gabrielle Gonzalez, Bingjing Mao, **Ruxin Wang**, Wen Liu, Chen Wang and Tung Sung Tseng, "Application of Augmented Reality Technology as a Dietary Monitoring and Control Measure Among Adults: A Systematic Review", in Nutrients, 2025.</span>
 
 <span style="font-size: 0.97em;"> [IEEE MASS'25] **Ruxin Wang**, Gabrielle Gonzalez, Wen Liu, Chen Wang and Tung-Sung Tseng, "DrinkMR: Unobtrusive Drinking Monitoring Using Off-The-Shelf Smart Glasses", in *The Proceedings of the 22nd IEEE International Conference on Mobile Ad-hoc and Sensor Systems*, Chicago, USA.</span>
 
