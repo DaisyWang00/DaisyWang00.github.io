@@ -13,9 +13,9 @@ My research interests include Cybersecurity and Privacy, Mobile Sensing, Augment
 
 Openings
 ======
-I am seeking self-motivated PhD students to join CypherLab, with opportunities beginning in Fall 2026 or Spring 2027. Preference will be given to students with prior research experience in mobile sensing or digital healthcare and strong software development skills. CypherLab also welcomes research intern students.
+CypherLab is currently seeking motivated research interns, including those interested in remote opportunities. Preference will be given to students with prior research experience in mobile sensing, cybersecurity, or AI in healthcare, as well as strong software development skills.
 
-Please contact me with your resume and use the subject line format: “PhD Application + Your Name.” If you are applying as an intern student, please use the subject line format: “Intern Application + Your Name.”
+Interested students are encouraged to email me their resumes with the subject line “Intern Application + Your Name.”
 
 
 Updates
