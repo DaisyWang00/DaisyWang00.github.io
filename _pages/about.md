@@ -20,7 +20,7 @@ Please contact me with your resume and use the subject line format: “PhD Appli
 
 Updates
 ======
-- **Oct 20, 2026** I am happy to share that I have been awarded an Internal Research Grant (INTRA) from UTSA!
+- **Jul 31, 2026** I am happy to share that I have been awarded an Internal Research Grant (INTRA) from UTSA!
 - **Jul 15, 2025** Our paper "DrinkMR: Unobtrusive Drinking Monitoring Using Off-The-Shelf Smart Glasses" is accepted at [IEEE MASS25](https://ieeemass2025.github.io/ieeemass2025/).
 - **Jul 15, 2025** Our paper "Converting Your Bluetooth Headphones into Active Sensing Authenticator: a Bond-Conduction Solution" is accepted at [IEEE MASS25](https://ieeemass2025.github.io/ieeemass2025/).
 - **Jun 23, 2025** I successfully defended my Ph.D. dissertation, with heartfelt thanks to my committee members!
