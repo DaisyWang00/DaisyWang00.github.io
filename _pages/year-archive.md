@@ -9,6 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
+# About CypherLab
+
+CypherLab focuses on mobile sensing, Cybersecurity and AI in healthcare. Our research explores emerging sensing technologies and AI-based computational approaches to address security issues and promote healthy human well-being.
+
+<div style="display: flex; gap: 12px; margin: 20px 0; flex-wrap: wrap;">
+
+  <img src="{{ '/images/lab1.jpg' | relative_url }}"
+       alt="CypherLab lab picture 1"
+       style="width: 31%; min-width: 180px; aspect-ratio: 4/3; object-fit: cover; border-radius: 8px;">
+
+  <img src="{{ '/images/lab2.jpg' | relative_url }}"
+       alt="CypherLab lab picture 2"
+       style="width: 31%; min-width: 180px; aspect-ratio: 4/3; object-fit: cover; border-radius: 8px;">
+
+  <img src="{{ '/images/lab3.JPG' | relative_url }}"
+       alt="CypherLab lab picture 3"
+       style="width: 31%; min-width: 180px; aspect-ratio: 4/3; object-fit: cover; border-radius: 8px;">
+
+  <img src="{{ '/images/lab4.JPG' | relative_url }}"
+       alt="CypherLab lab picture 4"
+       style="width: 31%; min-width: 180px; aspect-ratio: 4/3; object-fit: cover; border-radius: 8px;">
+
+</div>
+
 
 # CypherLab Openings
 I am seeking self-motivated PhD students to join CypherLab, with opportunities beginning in Fall 2026 or Spring 2027. Preference will be given to students with prior research experience in mobile sensing or digital healthcare and strong software development skills. CypherLab also welcomes research intern students.
