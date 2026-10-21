@@ -11,7 +11,7 @@ redirect_from:
 
 # About CypherLab
 
-CypherLab focuses on mobile sensing, Cybersecurity and AI in healthcare. Our research explores emerging sensing technologies and AI-based computational approaches to address security issues and promote healthy human well-being.
+CypherLab focuses on mobile sensing, cybersecurity, and AI in healthcare. Our research explores emerging sensing technologies and AI-based computational approaches to address security challenges and promote human well-being.
 
 <div style="display: flex; gap: 10px; align-items: center; margin: 15px 0;">
 
