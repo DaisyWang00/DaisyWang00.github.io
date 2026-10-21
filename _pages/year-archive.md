@@ -15,19 +15,19 @@ CypherLab focuses on mobile sensing, Cybersecurity and AI in healthcare. Our res
 
 <div style="display: flex; gap: 10px; align-items: center; margin: 15px 0;">
 
-  <img src="{{ '/images/themes/lab1.jpg'}}"
+  <img src="{{ '/images/lab1.jpg' | relative_url }}"
        alt="CypherLab lab picture 1"
        style="width: 23%; height: 100px; object-fit: cover; border-radius: 6px;">
 
-  <img src="{{ '/images/themes/lab2.jpg'}}"
+  <img src="{{ '/images/lab2.jpg' | relative_url }}"
        alt="CypherLab lab picture 2"
        style="width: 23%; height: 100px; object-fit: cover; border-radius: 6px;">
 
-  <img src="{{ '/images/themes/lab3.JPG'}}"
+  <img src="{{ '/images/lab3.JPG' | relative_url }}"
        alt="CypherLab lab picture 3"
        style="width: 23%; height: 100px; object-fit: cover; border-radius: 6px;">
 
-  <img src="{{ '/images/themes/lab4.JGP'}}"
+  <img src="{{ '/images/lab4.JPG' | relative_url }}"
        alt="CypherLab lab picture 4"
        style="width: 23%; height: 100px; object-fit: cover; border-radius: 6px;">
 
