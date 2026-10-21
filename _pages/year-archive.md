@@ -17,8 +17,8 @@ Please contact me with your resume and use the subject line format: “PhD Appli
 
 
 # Current Members
-Md Mushfique Hossain, PhD Student (Joined at 2026)
-Latif Shadman, PhD Student (Joined at 2025)
+Md Mushfique Hossain, PhD Student (Joined at 2026)  
+Latif Shadman, PhD Student (Joined at 2025)  
 
 # Previous Members
 Isabel Rosel, Undergraduate Student (Joined at 2025)
